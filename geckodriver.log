@@ -1,0 +1,23 @@
+1644562414837	geckodriver	INFO	Listening on 127.0.0.1:25412
+1644562417872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25413" "-no-remote" "-profile" "C:\\Users\\edan\\AppData\\Local\\Temp\\rust_mozprofilezU7usd"
+1644562510239	geckodriver	INFO	Listening on 127.0.0.1:25588
+1644562515210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25589" "-no-remote" "-profile" "C:\\Users\\edan\\AppData\\Local\\Temp\\rust_mozprofilekxYXmg"
+1644562517028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edan\\AppData\\Local\\Temp\\rust_mozprofilekxYXmg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:25589/devtools/browser/38217b05-956e-4d02-a9c3-a1e3e4743b42
+1644562525101	Marionette	INFO	Listening on port 25600
+1644562525403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1644562655010	Marionette	INFO	Stopped listening on port 25600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644562748082	geckodriver	INFO	Listening on 127.0.0.1:1347
+1644562751105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1348" "-no-remote" "-profile" "C:\\Users\\edan\\AppData\\Local\\Temp\\rust_mozprofilehiShjV"
+1644562751807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edan\\AppData\\Local\\Temp\\rust_mozprofilehiShjV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1348/devtools/browser/63a3033d-d81a-45bb-93b5-e2e84edb9932
+1644562756301	Marionette	INFO	Listening on port 1357
+1644562756337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644562880087	Marionette	INFO	Stopped listening on port 1357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
